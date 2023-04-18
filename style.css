@@ -9,3 +9,34 @@ body {
     border-bottom-color: #0a0485;  
     border-bottom-width: 10px; 
   }
+
+  .header-text {
+    font-size: 30px;  
+    line-height: 2;
+    color: black;
+  }
+
+  .col-12 .box {   
+    background:white;
+    border-radius: 15px;
+    width: 760px;
+    margin-top: -5px;
+    margin-left: -15px;
+
+}
+
+.bg-primary{
+    border-radius: 10px;
+  }
+
+  .bg-light { 
+    margin-top: 15px;
+    border-radius: 10px;
+    margin-bottom: 17px;  
+  }
+  
+
+  li{
+    margin-bottom: 10px;
+    margin-left: -40px;
+  }
