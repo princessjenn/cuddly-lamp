@@ -1,0 +1,11 @@
+body {
+    background-color: aquamarine;
+}
+
+.nav-bar{
+    text-align: center;
+    background-color: gray; 
+    border-bottom: solid;
+    border-bottom-color: #0a0485;  
+    border-bottom-width: 10px; 
+  }
